@@ -1,0 +1,778 @@
+{
+  "status": "degraded_partial",
+  "source": "Railway-RSSHub",
+  "source_role": "primary_public",
+  "finished_at": "2026-06-26T12:06:02.339Z",
+  "routes": [
+    "/baidu/top/teleplay",
+    "/douban/list/tv_real_time_hotest",
+    "/douban/list/show_chinese_best_weekly",
+    "/weibo/search/hot"
+  ],
+  "items": [
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 1,
+      "title": "蜜语纪",
+      "url": "https://www.baidu.com/s?wd=%E8%9C%9C%E8%AF%AD%E7%BA%AA+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：家庭、剧情 演员：钟汉良、朱珠 聚焦明星经理人纪封与经历婚变后沦为酒店保洁的许蜜语成长历程。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 100,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E8%9C%9C%E8%AF%AD%E7%BA%AA+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E8%9C%9C%E8%AF%AD%E7%BA%AA+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E8%9C%9C%E8%AF%AD%E7%BA%AA+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "蜜语纪",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012452740.png\" referrerpolicy=\"no-referrer\"><br>类型：家庭、剧情<br>演员：钟汉良、朱珠<br>聚焦明星经理人纪封与经历婚变后沦为酒店保洁的许蜜语成长历程。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012452740.png\" referrerpolicy=\"no-referrer\"><br>类型：家庭、剧情<br>演员：钟汉良、朱珠<br>聚焦明星经理人纪封与经历婚变后沦为酒店保洁的许蜜语成长历程。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 2,
+      "title": "八千里路云和月",
+      "url": "https://www.baidu.com/s?wd=%E5%85%AB%E5%8D%83%E9%87%8C%E8%B7%AF%E4%BA%91%E5%92%8C%E6%9C%88+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：历史、战争 演员：王阳、万茜、黄澄澄、于和伟 抗战爆发后，国民党抗日将军张云魁因上级指挥不当导致全军覆没，在张云魁的帮助之下孟万福侥幸存活。最终抗战取得胜利，守得云开见月明的故事。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 99,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E5%85%AB%E5%8D%83%E9%87%8C%E8%B7%AF%E4%BA%91%E5%92%8C%E6%9C%88+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E5%85%AB%E5%8D%83%E9%87%8C%E8%B7%AF%E4%BA%91%E5%92%8C%E6%9C%88+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AB%E5%8D%83%E9%87%8C%E8%B7%AF%E4%BA%91%E5%92%8C%E6%9C%88+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "八千里路云和月",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012794074.png\" referrerpolicy=\"no-referrer\"><br>类型：历史、战争<br>演员：王阳、万茜、黄澄澄、于和伟<br>抗战爆发后，国民党抗日将军张云魁因上级指挥不当导致全军覆没，在张云魁的帮助之下孟万福侥幸存活。最终抗战取得胜利，守得云开见月明的故事。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012794074.png\" referrerpolicy=\"no-referrer\"><br>类型：历史、战争<br>演员：王阳、万茜、黄澄澄、于和伟<br>抗战爆发后，国民党抗日将军张云魁因上级指挥不当导致全军覆没，在张云魁的帮助之下孟万福侥幸存活。最终抗战取得胜利，守得云开见月明的故事。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 3,
+      "title": "佳偶天成",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%B3%E5%81%B6%E5%A4%A9%E6%88%90+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：古装、爱情 演员：任嘉伦、王鹤润 讲述了战鬼族人陆千乔为破除诅咒、成为凡人，需历经换皮、换肉、换骨、换血、换心五关修行，本欲事成抽身，却因辛湄为其复仇之举引来仙门步步追剿。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 98,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E4%BD%B3%E5%81%B6%E5%A4%A9%E6%88%90+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E4%BD%B3%E5%81%B6%E5%A4%A9%E6%88%90+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%B3%E5%81%B6%E5%A4%A9%E6%88%90+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "佳偶天成",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012288888.png\" referrerpolicy=\"no-referrer\"><br>类型：古装、爱情<br>演员：任嘉伦、王鹤润<br>讲述了战鬼族人陆千乔为破除诅咒、成为凡人，需历经换皮、换肉、换骨、换血、换心五关修行，本欲事成抽身，却因辛湄为其复仇之举引来仙门步步追剿。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012288888.png\" referrerpolicy=\"no-referrer\"><br>类型：古装、爱情<br>演员：任嘉伦、王鹤润<br>讲述了战鬼族人陆千乔为破除诅咒、成为凡人，需历经换皮、换肉、换骨、换血、换心五关修行，本欲事成抽身，却因辛湄为其复仇之举引来仙门步步追剿。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 4,
+      "title": "爱情没有神话",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：爱情、都市 演员：唐嫣、赵又廷 讲述了以为代表的独身男女们，在事业与情感的交织浪潮中，彼此形成深厚羁绊，他们不断探寻自我，最终与爱人、朋友一道绽放绚烂人生的故事。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 97,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "爱情没有神话",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012259921.png\" referrerpolicy=\"no-referrer\"><br>类型：爱情、都市<br>演员：唐嫣、赵又廷<br>讲述了以为代表的独身男女们，在事业与情感的交织浪潮中，彼此形成深厚羁绊，他们不断探寻自我，最终与爱人、朋友一道绽放绚烂人生的故事。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012259921.png\" referrerpolicy=\"no-referrer\"><br>类型：爱情、都市<br>演员：唐嫣、赵又廷<br>讲述了以为代表的独身男女们，在事业与情感的交织浪潮中，彼此形成深厚羁绊，他们不断探寻自我，最终与爱人、朋友一道绽放绚烂人生的故事。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 5,
+      "title": "方圆八百米",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B9%E5%9C%86%E5%85%AB%E7%99%BE%E7%B1%B3+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：悬疑、犯罪 演员：丁勇岱、许凯、邓恩熙 该剧讲述了上世纪九十年代末的丰阳小镇矿区。一具无名女尸的出现，打破了表面的平静。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 96,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E6%96%B9%E5%9C%86%E5%85%AB%E7%99%BE%E7%B1%B3+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E6%96%B9%E5%9C%86%E5%85%AB%E7%99%BE%E7%B1%B3+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B9%E5%9C%86%E5%85%AB%E7%99%BE%E7%B1%B3+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "方圆八百米",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012397369.png\" referrerpolicy=\"no-referrer\"><br>类型：悬疑、犯罪<br>演员：丁勇岱、许凯、邓恩熙<br>该剧讲述了上世纪九十年代末的丰阳小镇矿区。一具无名女尸的出现，打破了表面的平静。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375012397369.png\" referrerpolicy=\"no-referrer\"><br>类型：悬疑、犯罪<br>演员：丁勇岱、许凯、邓恩熙<br>该剧讲述了上世纪九十年代末的丰阳小镇矿区。一具无名女尸的出现，打破了表面的平静。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 6,
+      "title": "月鳞绮纪",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：剧情、爱情 演员：鞠婧祎、曾舜晞、陈都灵、田嘉瑞 围绕神秘组织无相月的九尾狐露芜衣展开，讲述她与武拾光、雾妄言、寄灵等人为争夺大妖小唯的龙神之力，在试探与合作中逐渐发现彼此背后目的，最终为消灭万妖之首九婴而面临生死抉择的故事。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 95,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "月鳞绮纪",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013233465.png\" referrerpolicy=\"no-referrer\"><br>类型：剧情、爱情<br>演员：鞠婧祎、曾舜晞、陈都灵、田嘉瑞<br>围绕神秘组织无相月的九尾狐露芜衣展开，讲述她与武拾光、雾妄言、寄灵等人为争夺大妖小唯的龙神之力，在试探与合作中逐渐发现彼此背后目的，最终为消灭万妖之首九婴而面临生死抉择的故事。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013233465.png\" referrerpolicy=\"no-referrer\"><br>类型：剧情、爱情<br>演员：鞠婧祎、曾舜晞、陈都灵、田嘉瑞<br>围绕神秘组织无相月的九尾狐露芜衣展开，讲述她与武拾光、雾妄言、寄灵等人为争夺大妖小唯的龙神之力，在试探与合作中逐渐发现彼此背后目的，最终为消灭万妖之首九婴而面临生死抉择的故事。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 7,
+      "title": "白日提灯",
+      "url": "https://www.baidu.com/s?wd=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：爱情、古装 演员：迪丽热巴、陈飞宇 讲述了归墟最强女灵主贺思慕与身世成谜的少年将军段胥互通五感命理相连，四百岁仍保持少女模样的灵主与寿命短暂的凡人相遇，以爱意抵抗时间洪流，携手守护美好人间的故事。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 94,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "白日提灯",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013528540.png\" referrerpolicy=\"no-referrer\"><br>类型：爱情、古装<br>演员：迪丽热巴、陈飞宇<br>讲述了归墟最强女灵主贺思慕与身世成谜的少年将军段胥互通五感命理相连，四百岁仍保持少女模样的灵主与寿命短暂的凡人相遇，以爱意抵抗时间洪流，携手守护美好人间的故事。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013528540.png\" referrerpolicy=\"no-referrer\"><br>类型：爱情、古装<br>演员：迪丽热巴、陈飞宇<br>讲述了归墟最强女灵主贺思慕与身世成谜的少年将军段胥互通五感命理相连，四百岁仍保持少女模样的灵主与寿命短暂的凡人相遇，以爱意抵抗时间洪流，携手守护美好人间的故事。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 8,
+      "title": "黑夜告白",
+      "url": "https://www.baidu.com/s?wd=%E9%BB%91%E5%A4%9C%E5%91%8A%E7%99%BD+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：涉案、悬疑 演员：潘粤明、王鹤棣、任敏 该剧讲述1997 年，一桩电梯失踪案，将刑警何远航、冉方旭卷入迷雾。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 93,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E9%BB%91%E5%A4%9C%E5%91%8A%E7%99%BD+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E9%BB%91%E5%A4%9C%E5%91%8A%E7%99%BD+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E5%A4%9C%E5%91%8A%E7%99%BD+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "黑夜告白",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013942557.png\" referrerpolicy=\"no-referrer\"><br>类型：涉案、悬疑<br>演员：潘粤明、王鹤棣、任敏<br>该剧讲述1997 年，一桩电梯失踪案，将刑警何远航、冉方旭卷入迷雾。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013942557.png\" referrerpolicy=\"no-referrer\"><br>类型：涉案、悬疑<br>演员：潘粤明、王鹤棣、任敏<br>该剧讲述1997 年，一桩电梯失踪案，将刑警何远航、冉方旭卷入迷雾。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 9,
+      "title": "重案解密",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：悬疑、犯罪 演员：苗侨伟、岑丽香 该剧改编自香港真实奇案，讲述了重案组警长杜凯斌与新晋探员严灼颖从隔阂到并肩，始终坚守正义的故事。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 92,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "重案解密",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013591935.png\" referrerpolicy=\"no-referrer\"><br>类型：悬疑、犯罪<br>演员：苗侨伟、岑丽香<br>该剧改编自香港真实奇案，讲述了重案组警长杜凯斌与新晋探员严灼颖从隔阂到并肩，始终坚守正义的故事。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013591935.png\" referrerpolicy=\"no-referrer\"><br>类型：悬疑、犯罪<br>演员：苗侨伟、岑丽香<br>该剧改编自香港真实奇案，讲述了重案组警长杜凯斌与新晋探员严灼颖从隔阂到并肩，始终坚守正义的故事。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Baidu-Teleplay",
+      "source_role": "primary_public",
+      "route": "/baidu/top/teleplay",
+      "rank": 10,
+      "title": "金关",
+      "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%85%B3+%E7%94%B5%E8%A7%86%E5%89%A7",
+      "summary": "类型：剧情、悬疑 演员：经超、黄尧、屠芷莹 剧集以滨海华炎机场旅检一科为核心阵地，聚焦行李查验、禁限品管控、风险研判、关税征管等真实工作，讲述海关旅检关员依法履职、百步识人、勇于负责、敢于斗争、坚守岗位、捍卫国家利益的热血故事。",
+      "published_at": "2026-06-26T12:05:56.080Z",
+      "hot_score": 91,
+      "category": "hotspot",
+      "tags": [
+        "teleplay"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/baidu/top/teleplay",
+        "raw_id": "https://www.baidu.com/s?wd=%E9%87%91%E5%85%B3+%E7%94%B5%E8%A7%86%E5%89%A7",
+        "fetched_at": "2026-06-26T12:05:56.080Z",
+        "duration_ms": 1953,
+        "item": {
+          "id": "https://www.baidu.com/s?wd=%E9%87%91%E5%85%B3+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%85%B3+%E7%94%B5%E8%A7%86%E5%89%A7",
+          "title": "金关",
+          "content_html": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013741893.png\" referrerpolicy=\"no-referrer\"><br>类型：剧情、悬疑<br>演员：经超、黄尧、屠芷莹<br>剧集以滨海华炎机场旅检一科为核心阵地，聚焦行李查验、禁限品管控、风险研判、关税征管等真实工作，讲述海关旅检关员依法履职、百步识人、勇于负责、敢于斗争、坚守岗位、捍卫国家利益的热血故事。",
+          "summary": "<img src=\"https://b.bdstatic.com/searchbox/file/cmsuploader/20260428/1777375013741893.png\" referrerpolicy=\"no-referrer\"><br>类型：剧情、悬疑<br>演员：经超、黄尧、屠芷莹<br>剧集以滨海华炎机场旅检一科为核心阵地，聚焦行李查验、禁限品管控、风险研判、关税征管等真实工作，讲述海关旅检关员依法履职、百步识人、勇于负责、敢于斗争、坚守岗位、捍卫国家利益的热血故事。"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 1,
+      "title": "半熟恋人 第五季",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/37815127",
+      "summary": "半熟恋人 第五季 6.6 2026 / 中国大陆 / 爱情 真人秀 / 沈奕斐 谢依霖",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 100,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/37815127",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/37815127",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/37815127",
+          "title": "半熟恋人 第五季",
+          "content_html": "<p>半熟恋人 第五季</p><p>6.6</p><p>2026 / 中国大陆 / 爱情 真人秀 / 沈奕斐 谢依霖</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2932678292.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>半熟恋人 第五季</p><p>6.6</p><p>2026 / 中国大陆 / 爱情 真人秀 / 沈奕斐 谢依霖</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2932678292.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 2,
+      "title": "云秀行",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/26970929",
+      "summary": "云秀行 3.8 2026 / 中国大陆 / 剧情 喜剧 爱情 古装 / 朱少杰 / 李一桐 曾舜晞",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 99,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/26970929",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/26970929",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/26970929",
+          "title": "云秀行",
+          "content_html": "<p>云秀行</p><p>3.8</p><p>2026 / 中国大陆 / 剧情 喜剧 爱情 古装 / 朱少杰 / 李一桐 曾舜晞</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2933353357.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>云秀行</p><p>3.8</p><p>2026 / 中国大陆 / 剧情 喜剧 爱情 古装 / 朱少杰 / 李一桐 曾舜晞</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2933353357.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 3,
+      "title": "千香",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/35633152",
+      "summary": "千香 2026 / 中国大陆 / 爱情 奇幻 古装 / 鞠觉亮 / 宋威龙 鞠婧祎",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 98,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/35633152",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/35633152",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/35633152",
+          "title": "千香",
+          "content_html": "<p>千香</p><p>2026 / 中国大陆 / 爱情 奇幻 古装 / 鞠觉亮 / 宋威龙 鞠婧祎</p><img src=\"https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2933571800.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>千香</p><p>2026 / 中国大陆 / 爱情 奇幻 古装 / 鞠觉亮 / 宋威龙 鞠婧祎</p><img src=\"https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2933571800.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 4,
+      "title": "南部档案",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/35465012",
+      "summary": "南部档案 6.7 2026 / 中国大陆 / 剧情 奇幻 冒险 / 周靖韬 林毅 梁靖宇 / 张新成 丁禹兮",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 97,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/35465012",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/35465012",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/35465012",
+          "title": "南部档案",
+          "content_html": "<p>南部档案</p><p>6.7</p><p>2026 / 中国大陆 / 剧情 奇幻 冒险 / 周靖韬 林毅 梁靖宇 / 张新成 丁禹兮</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2915779333.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>南部档案</p><p>6.7</p><p>2026 / 中国大陆 / 剧情 奇幻 冒险 / 周靖韬 林毅 梁靖宇 / 张新成 丁禹兮</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2915779333.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 5,
+      "title": "炽夏",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/36884141",
+      "summary": "炽夏 5.1 2026 / 中国大陆 / 剧情 爱情 / 许肇任 黄常祚 / 包上恩 周柯宇",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 96,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/36884141",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/36884141",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/36884141",
+          "title": "炽夏",
+          "content_html": "<p>炽夏</p><p>5.1</p><p>2026 / 中国大陆 / 剧情 爱情 / 许肇任 黄常祚 / 包上恩 周柯宇</p><img src=\"https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926577405.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>炽夏</p><p>5.1</p><p>2026 / 中国大陆 / 剧情 爱情 / 许肇任 黄常祚 / 包上恩 周柯宇</p><img src=\"https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926577405.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 6,
+      "title": "爱情有烟火",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/35452068",
+      "summary": "爱情有烟火 2026 / 中国大陆 / 喜剧 爱情 / 史成业 / 檀健次 王楚然",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 95,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/35452068",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/35452068",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/35452068",
+          "title": "爱情有烟火",
+          "content_html": "<p>爱情有烟火</p><p>2026 / 中国大陆 / 喜剧 爱情 / 史成业 / 檀健次 王楚然</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2930509432.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>爱情有烟火</p><p>2026 / 中国大陆 / 喜剧 爱情 / 史成业 / 檀健次 王楚然</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2930509432.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 7,
+      "title": "入戏",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/37659239",
+      "summary": "入戏 2026 / 中国大陆 / 剧情 同性 / 文刀 / 奥利 淑元",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 94,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/37659239",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/37659239",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/37659239",
+          "title": "入戏",
+          "content_html": "<p>入戏</p><p>2026 / 中国大陆 / 剧情 同性 / 文刀 / 奥利 淑元</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2933259027.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>入戏</p><p>2026 / 中国大陆 / 剧情 同性 / 文刀 / 奥利 淑元</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2933259027.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 8,
+      "title": "莫离",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/37234503",
+      "summary": "莫离 2026 / 中国大陆 / 爱情 古装 / 林玉芬 梁胜权 刘智君 / 白鹿 丞磊",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 93,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/37234503",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/37234503",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/37234503",
+          "title": "莫离",
+          "content_html": "<p>莫离</p><p>2026 / 中国大陆 / 爱情 古装 / 林玉芬 梁胜权 刘智君 / 白鹿 丞磊</p><img src=\"https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2932891615.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>莫离</p><p>2026 / 中国大陆 / 爱情 古装 / 林玉芬 梁胜权 刘智君 / 白鹿 丞磊</p><img src=\"https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2932891615.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 9,
+      "title": "翘楚",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/36894289",
+      "summary": "翘楚 4.9 2026 / 中国大陆 / 剧情 / 杨龙 / 陈都灵 周翊然",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 92,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/36894289",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/36894289",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/36894289",
+          "title": "翘楚",
+          "content_html": "<p>翘楚</p><p>4.9</p><p>2026 / 中国大陆 / 剧情 / 杨龙 / 陈都灵 周翊然</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2932926393.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>翘楚</p><p>4.9</p><p>2026 / 中国大陆 / 剧情 / 杨龙 / 陈都灵 周翊然</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2932926393.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-TV",
+      "source_role": "primary_public",
+      "route": "/douban/list/tv_real_time_hotest",
+      "rank": 10,
+      "title": "问心2",
+      "url": "https://www.douban.com/doubanapp/dispatch/movie/36675848",
+      "summary": "问心2 7.8 2026 / 中国大陆 / 剧情 / 黎志 / 赵又廷 毛晓彤",
+      "published_at": "2026-06-26T12:05:56.123Z",
+      "hot_score": 91,
+      "category": "hotspot",
+      "tags": [
+        "tv"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/tv_real_time_hotest",
+        "raw_id": "https://www.douban.com/doubanapp/dispatch/movie/36675848",
+        "fetched_at": "2026-06-26T12:05:56.123Z",
+        "duration_ms": 6215,
+        "item": {
+          "id": "https://www.douban.com/doubanapp/dispatch/movie/36675848",
+          "url": "https://www.douban.com/doubanapp/dispatch/movie/36675848",
+          "title": "问心2",
+          "content_html": "<p>问心2</p><p>7.8</p><p>2026 / 中国大陆 / 剧情 / 黎志 / 赵又廷 毛晓彤</p><img src=\"https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2933401946.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>问心2</p><p>7.8</p><p>2026 / 中国大陆 / 剧情 / 黎志 / 赵又廷 毛晓彤</p><img src=\"https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2933401946.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-Variety",
+      "source_role": "primary_public",
+      "route": "/douban/list/show_chinese_best_weekly",
+      "rank": 1,
+      "title": "大侦探 第十一季",
+      "url": "https://movie.douban.com/subject/37561280/",
+      "summary": "大侦探 第十一季 7.5 2026 / 中国大陆 / 真人秀 / 晏吉 莫乃珊 / 何炅 张若昀",
+      "published_at": "2026-06-26T12:05:56.124Z",
+      "hot_score": 100,
+      "category": "hotspot",
+      "tags": [
+        "variety"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/show_chinese_best_weekly",
+        "raw_id": "https://movie.douban.com/subject/37561280/",
+        "fetched_at": "2026-06-26T12:05:56.124Z",
+        "duration_ms": 3322,
+        "item": {
+          "id": "https://movie.douban.com/subject/37561280/",
+          "url": "https://movie.douban.com/subject/37561280/",
+          "title": "大侦探 第十一季",
+          "content_html": "<p>大侦探 第十一季</p><p>7.5</p><p>2026 / 中国大陆 / 真人秀 / 晏吉 莫乃珊 / 何炅 张若昀</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2929826097.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>大侦探 第十一季</p><p>7.5</p><p>2026 / 中国大陆 / 真人秀 / 晏吉 莫乃珊 / 何炅 张若昀</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2929826097.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-Variety",
+      "source_role": "primary_public",
+      "route": "/douban/list/show_chinese_best_weekly",
+      "rank": 2,
+      "title": "恋爱女子宿舍",
+      "url": "https://movie.douban.com/subject/38212092/",
+      "summary": "恋爱女子宿舍 8.6 2025 / 中国台湾 / 真人秀",
+      "published_at": "2026-06-26T12:05:56.124Z",
+      "hot_score": 99,
+      "category": "hotspot",
+      "tags": [
+        "variety"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/show_chinese_best_weekly",
+        "raw_id": "https://movie.douban.com/subject/38212092/",
+        "fetched_at": "2026-06-26T12:05:56.124Z",
+        "duration_ms": 3322,
+        "item": {
+          "id": "https://movie.douban.com/subject/38212092/",
+          "url": "https://movie.douban.com/subject/38212092/",
+          "title": "恋爱女子宿舍",
+          "content_html": "<p>恋爱女子宿舍</p><p>8.6</p><p>2025 / 中国台湾 / 真人秀</p><img src=\"https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2929177778.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>恋爱女子宿舍</p><p>8.6</p><p>2025 / 中国台湾 / 真人秀</p><img src=\"https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2929177778.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-Variety",
+      "source_role": "primary_public",
+      "route": "/douban/list/show_chinese_best_weekly",
+      "rank": 3,
+      "title": "主咖和Ta的朋友们",
+      "url": "https://movie.douban.com/subject/37526318/",
+      "summary": "主咖和Ta的朋友们 7 2026 / 中国大陆 / 真人秀 / 汪小越 / 张绍刚 范志毅",
+      "published_at": "2026-06-26T12:05:56.124Z",
+      "hot_score": 98,
+      "category": "hotspot",
+      "tags": [
+        "variety"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/show_chinese_best_weekly",
+        "raw_id": "https://movie.douban.com/subject/37526318/",
+        "fetched_at": "2026-06-26T12:05:56.124Z",
+        "duration_ms": 3322,
+        "item": {
+          "id": "https://movie.douban.com/subject/37526318/",
+          "url": "https://movie.douban.com/subject/37526318/",
+          "title": "主咖和Ta的朋友们",
+          "content_html": "<p>主咖和Ta的朋友们</p><p>7</p><p>2026 / 中国大陆 / 真人秀 / 汪小越 / 张绍刚 范志毅</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2929200417.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>主咖和Ta的朋友们</p><p>7</p><p>2026 / 中国大陆 / 真人秀 / 汪小越 / 张绍刚 范志毅</p><img src=\"https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2929200417.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-Variety",
+      "source_role": "primary_public",
+      "route": "/douban/list/show_chinese_best_weekly",
+      "rank": 4,
+      "title": "试真D",
+      "url": "https://movie.douban.com/subject/38245063/",
+      "summary": "试真D 8 2026 / 中国香港 / 真人秀 / 梁志康 刘诗桦 / 江美仪 周嘉洛",
+      "published_at": "2026-06-26T12:05:56.124Z",
+      "hot_score": 97,
+      "category": "hotspot",
+      "tags": [
+        "variety"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/show_chinese_best_weekly",
+        "raw_id": "https://movie.douban.com/subject/38245063/",
+        "fetched_at": "2026-06-26T12:05:56.124Z",
+        "duration_ms": 3322,
+        "item": {
+          "id": "https://movie.douban.com/subject/38245063/",
+          "url": "https://movie.douban.com/subject/38245063/",
+          "title": "试真D",
+          "content_html": "<p>试真D</p><p>8</p><p>2026 / 中国香港 / 真人秀 / 梁志康 刘诗桦 / 江美仪 周嘉洛</p><img src=\"https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2931757861.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>试真D</p><p>8</p><p>2026 / 中国香港 / 真人秀 / 梁志康 刘诗桦 / 江美仪 周嘉洛</p><img src=\"https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2931757861.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    },
+    {
+      "source": "RSSHub-Douban-Variety",
+      "source_role": "primary_public",
+      "route": "/douban/list/show_chinese_best_weekly",
+      "rank": 5,
+      "title": "6人行不行",
+      "url": "https://movie.douban.com/subject/38230342/",
+      "summary": "6人行不行 7.7 2026 / 中国台湾 / 真人秀 / 李伯恩 / 吴青峰 史俊威",
+      "published_at": "2026-06-26T12:05:56.124Z",
+      "hot_score": 96,
+      "category": "hotspot",
+      "tags": [
+        "variety"
+      ],
+      "raw_payload": {
+        "source_role": "primary_public",
+        "source_kind": "railway_rsshub",
+        "route": "/douban/list/show_chinese_best_weekly",
+        "raw_id": "https://movie.douban.com/subject/38230342/",
+        "fetched_at": "2026-06-26T12:05:56.124Z",
+        "duration_ms": 3322,
+        "item": {
+          "id": "https://movie.douban.com/subject/38230342/",
+          "url": "https://movie.douban.com/subject/38230342/",
+          "title": "6人行不行",
+          "content_html": "<p>6人行不行</p><p>7.7</p><p>2026 / 中国台湾 / 真人秀 / 李伯恩 / 吴青峰 史俊威</p><img src=\"https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2933045566.webp\" referrerpolicy=\"no-referrer\">",
+          "summary": "<p>6人行不行</p><p>7.7</p><p>2026 / 中国台湾 / 真人秀 / 李伯恩 / 吴青峰 史俊威</p><img src=\"https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2933045566.webp\" referrerpolicy=\"no-referrer\">"
+        }
+      }
+    }
+  ],
+  "failures": [
+    {
+      "type": "route_failure",
+      "route": "/weibo/search/hot",
+      "url": "https://rsshub-production-2a0e.up.railway.app/weibo/search/hot?format=json",
+      "fetched_at": "2026-06-26T12:05:56.125Z",
+      "status": "failed_http",
+      "http_status": 503,
+      "error_code": "HTTP_ERROR",
+      "message": "HTTP 503 Service Unavailable",
+      "duration_ms": 627,
+      "retryable": true
+    }
+  ]
+}
